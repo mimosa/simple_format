@@ -46,8 +46,6 @@ module SimpleFormat
       html ||= string.dup
       html = replace_name_with_images(html, size)
       html = replace_unicode_with_images(html.to_str, size)
-      puts html
-      puts '_'*88 + 'replace_unicode_with_images'
       return html
     end
     # 通过（名称）替换表情 
