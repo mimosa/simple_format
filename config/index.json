@@ -1,0 +1,4356 @@
+[
+  {
+    "unicode": "😄",
+    "name": "smile",
+    "category": "people"
+  },
+  {
+    "unicode": "😃",
+    "name": "smiley",
+    "category": "people"
+  },
+  {
+    "unicode": "😀",
+    "name": "grinning",
+    "category": "people"
+  },
+  {
+    "unicode": "😊",
+    "name": "blush",
+    "category": "people"
+  },
+  {
+    "unicode": "☺️",
+    "name": "relaxed",
+    "category": "people"
+  },
+  {
+    "unicode": "😉",
+    "name": "wink",
+    "category": "people"
+  },
+  {
+    "unicode": "😍",
+    "name": "heart_eyes",
+    "category": "people"
+  },
+  {
+    "unicode": "😘",
+    "name": "kissing_heart",
+    "category": "people"
+  },
+  {
+    "unicode": "😚",
+    "name": "kissing_closed_eyes",
+    "category": "people"
+  },
+  {
+    "unicode": "😗",
+    "name": "kissing",
+    "category": "people"
+  },
+  {
+    "unicode": "😙",
+    "name": "kissing_smiling_eyes",
+    "category": "people"
+  },
+  {
+    "unicode": "😜",
+    "name": "stuck_out_tongue_winking_eye",
+    "category": "people"
+  },
+  {
+    "unicode": "😝",
+    "name": "stuck_out_tongue_closed_eyes",
+    "category": "people"
+  },
+  {
+    "unicode": "😛",
+    "name": "stuck_out_tongue",
+    "category": "people"
+  },
+  {
+    "unicode": "😳",
+    "name": "flushed",
+    "category": "people"
+  },
+  {
+    "unicode": "😁",
+    "name": "grin",
+    "category": "people"
+  },
+  {
+    "unicode": "😔",
+    "name": "pensive",
+    "category": "people"
+  },
+  {
+    "unicode": "😌",
+    "name": "relieved",
+    "category": "people"
+  },
+  {
+    "unicode": "😒",
+    "name": "unamused",
+    "category": "people"
+  },
+  {
+    "unicode": "😞",
+    "name": "disappointed",
+    "category": "people"
+  },
+  {
+    "unicode": "😣",
+    "name": "persevere",
+    "category": "people"
+  },
+  {
+    "unicode": "😢",
+    "name": "cry",
+    "category": "people"
+  },
+  {
+    "unicode": "😂",
+    "name": "joy",
+    "category": "people"
+  },
+  {
+    "unicode": "😭",
+    "name": "sob",
+    "category": "people"
+  },
+  {
+    "unicode": "😪",
+    "name": "sleepy",
+    "category": "people"
+  },
+  {
+    "unicode": "😥",
+    "name": "disappointed_relieved",
+    "category": "people"
+  },
+  {
+    "unicode": "😰",
+    "name": "cold_sweat",
+    "category": "people"
+  },
+  {
+    "unicode": "😅",
+    "name": "sweat_smile",
+    "category": "people"
+  },
+  {
+    "unicode": "😓",
+    "name": "sweat",
+    "category": "people"
+  },
+  {
+    "unicode": "😩",
+    "name": "weary",
+    "category": "people"
+  },
+  {
+    "unicode": "😫",
+    "name": "tired_face",
+    "category": "people"
+  },
+  {
+    "unicode": "😨",
+    "name": "fearful",
+    "category": "people"
+  },
+  {
+    "unicode": "😱",
+    "name": "scream",
+    "category": "people"
+  },
+  {
+    "unicode": "😠",
+    "name": "angry",
+    "category": "people"
+  },
+  {
+    "unicode": "😡",
+    "name": "rage",
+    "category": "people"
+  },
+  {
+    "unicode": "😤",
+    "name": "triumph",
+    "category": "people"
+  },
+  {
+    "unicode": "😖",
+    "name": "confounded",
+    "category": "people"
+  },
+  {
+    "unicode": "😆",
+    "name": "satisfied",
+    "category": "people"
+  },
+  {
+    "unicode": "😋",
+    "name": "yum",
+    "category": "people"
+  },
+  {
+    "unicode": "😷",
+    "name": "mask",
+    "category": "people"
+  },
+  {
+    "unicode": "😎",
+    "name": "sunglasses",
+    "category": "people"
+  },
+  {
+    "unicode": "😴",
+    "name": "sleeping",
+    "category": "people"
+  },
+  {
+    "unicode": "😵",
+    "name": "dizzy_face",
+    "category": "people"
+  },
+  {
+    "unicode": "😲",
+    "name": "astonished",
+    "category": "people"
+  },
+  {
+    "unicode": "😟",
+    "name": "worried",
+    "category": "people"
+  },
+  {
+    "unicode": "😦",
+    "name": "frowning",
+    "category": "people"
+  },
+  {
+    "unicode": "😧",
+    "name": "anguished",
+    "category": "people"
+  },
+  {
+    "unicode": "😈",
+    "name": "smiling_imp",
+    "category": "people"
+  },
+  {
+    "unicode": "👿",
+    "name": "imp",
+    "category": "people"
+  },
+  {
+    "unicode": "😮",
+    "name": "open_mouth",
+    "category": "people"
+  },
+  {
+    "unicode": "😬",
+    "name": "grimacing",
+    "category": "people"
+  },
+  {
+    "unicode": "😐",
+    "name": "neutral_face",
+    "category": "people"
+  },
+  {
+    "unicode": "😕",
+    "name": "confused",
+    "category": "people"
+  },
+  {
+    "unicode": "😯",
+    "name": "hushed",
+    "category": "people"
+  },
+  {
+    "unicode": "😶",
+    "name": "no_mouth",
+    "category": "people"
+  },
+  {
+    "unicode": "😇",
+    "name": "innocent",
+    "category": "people"
+  },
+  {
+    "unicode": "😏",
+    "name": "smirk",
+    "category": "people"
+  },
+  {
+    "unicode": "😑",
+    "name": "expressionless",
+    "category": "people"
+  },
+  {
+    "unicode": "👲",
+    "name": "man_with_gua_pi_mao",
+    "category": "people"
+  },
+  {
+    "unicode": "👳",
+    "name": "man_with_turban",
+    "category": "people"
+  },
+  {
+    "unicode": "👮",
+    "name": "cop",
+    "category": "people"
+  },
+  {
+    "unicode": "👷",
+    "name": "construction_worker",
+    "category": "people"
+  },
+  {
+    "unicode": "💂",
+    "name": "guardsman",
+    "category": "people"
+  },
+  {
+    "unicode": "👶",
+    "name": "baby",
+    "category": "people"
+  },
+  {
+    "unicode": "👦",
+    "name": "boy",
+    "category": "people"
+  },
+  {
+    "unicode": "👧",
+    "name": "girl",
+    "category": "people"
+  },
+  {
+    "unicode": "👨",
+    "name": "man",
+    "category": "people"
+  },
+  {
+    "unicode": "👩",
+    "name": "woman",
+    "category": "people"
+  },
+  {
+    "unicode": "👴",
+    "name": "older_man",
+    "category": "people"
+  },
+  {
+    "unicode": "👵",
+    "name": "older_woman",
+    "category": "people"
+  },
+  {
+    "unicode": "👱",
+    "name": "person_with_blond_hair",
+    "category": "people"
+  },
+  {
+    "unicode": "👼",
+    "name": "angel",
+    "category": "people"
+  },
+  {
+    "unicode": "👸",
+    "name": "princess",
+    "category": "people"
+  },
+  {
+    "unicode": "😺",
+    "name": "smiley_cat",
+    "category": "people"
+  },
+  {
+    "unicode": "😸",
+    "name": "smile_cat",
+    "category": "people"
+  },
+  {
+    "unicode": "😻",
+    "name": "heart_eyes_cat",
+    "category": "people"
+  },
+  {
+    "unicode": "😽",
+    "name": "kissing_cat",
+    "category": "people"
+  },
+  {
+    "unicode": "😼",
+    "name": "smirk_cat",
+    "category": "people"
+  },
+  {
+    "unicode": "🙀",
+    "name": "scream_cat",
+    "category": "people"
+  },
+  {
+    "unicode": "😿",
+    "name": "crying_cat_face",
+    "category": "people"
+  },
+  {
+    "unicode": "😹",
+    "name": "joy_cat",
+    "category": "people"
+  },
+  {
+    "unicode": "😾",
+    "name": "pouting_cat",
+    "category": "people"
+  },
+  {
+    "unicode": "👹",
+    "name": "japanese_ogre",
+    "category": "people"
+  },
+  {
+    "unicode": "👺",
+    "name": "japanese_goblin",
+    "category": "people"
+  },
+  {
+    "unicode": "🙈",
+    "name": "see_no_evil",
+    "category": "people"
+  },
+  {
+    "unicode": "🙉",
+    "name": "hear_no_evil",
+    "category": "people"
+  },
+  {
+    "unicode": "🙊",
+    "name": "speak_no_evil",
+    "category": "people"
+  },
+  {
+    "unicode": "💀",
+    "name": "skull",
+    "category": "people"
+  },
+  {
+    "unicode": "👽",
+    "name": "alien",
+    "category": "people"
+  },
+  {
+    "unicode": "💩",
+    "name": "shit",
+    "category": "people"
+  },
+  {
+    "unicode": "🔥",
+    "name": "fire",
+    "category": "people"
+  },
+  {
+    "unicode": "✨",
+    "name": "sparkles",
+    "category": "people"
+  },
+  {
+    "unicode": "🌟",
+    "name": "star2",
+    "category": "people"
+  },
+  {
+    "unicode": "💫",
+    "name": "dizzy",
+    "category": "people"
+  },
+  {
+    "unicode": "💥",
+    "name": "collision",
+    "category": "people"
+  },
+  {
+    "unicode": "💢",
+    "name": "anger",
+    "category": "people"
+  },
+  {
+    "unicode": "💦",
+    "name": "sweat_drops",
+    "category": "people"
+  },
+  {
+    "unicode": "💧",
+    "name": "droplet",
+    "category": "people"
+  },
+  {
+    "unicode": "💤",
+    "name": "zzz",
+    "category": "people"
+  },
+  {
+    "unicode": "💨",
+    "name": "dash",
+    "category": "people"
+  },
+  {
+    "unicode": "👂",
+    "name": "ear",
+    "category": "people"
+  },
+  {
+    "unicode": "👀",
+    "name": "eyes",
+    "category": "people"
+  },
+  {
+    "unicode": "👃",
+    "name": "nose",
+    "category": "people"
+  },
+  {
+    "unicode": "👅",
+    "name": "tongue",
+    "category": "people"
+  },
+  {
+    "unicode": "👄",
+    "name": "lips",
+    "category": "people"
+  },
+  {
+    "unicode": "👍",
+    "name": "thumbsup",
+    "category": "people"
+  },
+  {
+    "unicode": "👎",
+    "name": "thumbsdown",
+    "category": "people"
+  },
+  {
+    "unicode": "👌",
+    "name": "ok_hand",
+    "category": "people"
+  },
+  {
+    "unicode": "👊",
+    "name": "punch",
+    "category": "people"
+  },
+  {
+    "unicode": "✊",
+    "name": "fist",
+    "category": "people"
+  },
+  {
+    "unicode": "✌️",
+    "name": "v",
+    "category": "people"
+  },
+  {
+    "unicode": "👋",
+    "name": "wave",
+    "category": "people"
+  },
+  {
+    "unicode": "✋",
+    "name": "raised_hand",
+    "category": "people"
+  },
+  {
+    "unicode": "👐",
+    "name": "open_hands",
+    "category": "people"
+  },
+  {
+    "unicode": "👆",
+    "name": "point_up_2",
+    "category": "people"
+  },
+  {
+    "unicode": "👇",
+    "name": "point_down",
+    "category": "people"
+  },
+  {
+    "unicode": "👉",
+    "name": "point_right",
+    "category": "people"
+  },
+  {
+    "unicode": "👈",
+    "name": "point_left",
+    "category": "people"
+  },
+  {
+    "unicode": "🙌",
+    "name": "raised_hands",
+    "category": "people"
+  },
+  {
+    "unicode": "🙏",
+    "name": "pray",
+    "category": "people"
+  },
+  {
+    "unicode": "☝️",
+    "name": "point_up",
+    "category": "people"
+  },
+  {
+    "unicode": "👏",
+    "name": "clap",
+    "category": "people"
+  },
+  {
+    "unicode": "💪",
+    "name": "muscle",
+    "category": "people"
+  },
+  {
+    "unicode": "🚶",
+    "name": "walking",
+    "category": "people"
+  },
+  {
+    "unicode": "🏃",
+    "name": "running",
+    "category": "people"
+  },
+  {
+    "unicode": "💃",
+    "name": "dancer",
+    "category": "people"
+  },
+  {
+    "unicode": "👫",
+    "name": "couple",
+    "category": "people"
+  },
+  {
+    "unicode": "👪",
+    "name": "family",
+    "category": "people"
+  },
+  {
+    "unicode": "👬",
+    "name": "two_men_holding_hands",
+    "category": "people"
+  },
+  {
+    "unicode": "👭",
+    "name": "two_women_holding_hands",
+    "category": "people"
+  },
+  {
+    "unicode": "💏",
+    "name": "couplekiss",
+    "category": "people"
+  },
+  {
+    "unicode": "💑",
+    "name": "couple_with_heart",
+    "category": "people"
+  },
+  {
+    "unicode": "👯",
+    "name": "dancers",
+    "category": "people"
+  },
+  {
+    "unicode": "🙆",
+    "name": "ok_woman",
+    "category": "people"
+  },
+  {
+    "unicode": "🙅",
+    "name": "no_good",
+    "category": "people"
+  },
+  {
+    "unicode": "💁",
+    "name": "information_desk_person",
+    "category": "people"
+  },
+  {
+    "unicode": "🙋",
+    "name": "raising_hand",
+    "category": "people"
+  },
+  {
+    "unicode": "💆",
+    "name": "massage",
+    "category": "people"
+  },
+  {
+    "unicode": "💇",
+    "name": "haircut",
+    "category": "people"
+  },
+  {
+    "unicode": "💅",
+    "name": "nail_care",
+    "category": "people"
+  },
+  {
+    "unicode": "👰",
+    "name": "bride_with_veil",
+    "category": "people"
+  },
+  {
+    "unicode": "🙎",
+    "name": "person_with_pouting_face",
+    "category": "people"
+  },
+  {
+    "unicode": "🙍",
+    "name": "person_frowning",
+    "category": "people"
+  },
+  {
+    "unicode": "🙇",
+    "name": "bow",
+    "category": "people"
+  },
+  {
+    "unicode": "🎩",
+    "name": "tophat",
+    "category": "people"
+  },
+  {
+    "unicode": "👑",
+    "name": "crown",
+    "category": "people"
+  },
+  {
+    "unicode": "👒",
+    "name": "womans_hat",
+    "category": "people"
+  },
+  {
+    "unicode": "👟",
+    "name": "athletic_shoe",
+    "category": "people"
+  },
+  {
+    "unicode": "👞",
+    "name": "shoe",
+    "category": "people"
+  },
+  {
+    "unicode": "👡",
+    "name": "sandal",
+    "category": "people"
+  },
+  {
+    "unicode": "👠",
+    "name": "high_heel",
+    "category": "people"
+  },
+  {
+    "unicode": "👢",
+    "name": "boot",
+    "category": "people"
+  },
+  {
+    "unicode": "👕",
+    "name": "tshirt",
+    "category": "people"
+  },
+  {
+    "unicode": "👔",
+    "name": "necktie",
+    "category": "people"
+  },
+  {
+    "unicode": "👚",
+    "name": "womans_clothes",
+    "category": "people"
+  },
+  {
+    "unicode": "👗",
+    "name": "dress",
+    "category": "people"
+  },
+  {
+    "unicode": "🎽",
+    "name": "running_shirt_with_sash",
+    "category": "people"
+  },
+  {
+    "unicode": "👖",
+    "name": "jeans",
+    "category": "people"
+  },
+  {
+    "unicode": "👘",
+    "name": "kimono",
+    "category": "people"
+  },
+  {
+    "unicode": "👙",
+    "name": "bikini",
+    "category": "people"
+  },
+  {
+    "unicode": "💼",
+    "name": "briefcase",
+    "category": "people"
+  },
+  {
+    "unicode": "👜",
+    "name": "handbag",
+    "category": "people"
+  },
+  {
+    "unicode": "👝",
+    "name": "pouch",
+    "category": "people"
+  },
+  {
+    "unicode": "👛",
+    "name": "purse",
+    "category": "people"
+  },
+  {
+    "unicode": "👓",
+    "name": "eyeglasses",
+    "category": "people"
+  },
+  {
+    "unicode": "🎀",
+    "name": "ribbon",
+    "category": "people"
+  },
+  {
+    "unicode": "🌂",
+    "name": "closed_umbrella",
+    "category": "people"
+  },
+  {
+    "unicode": "💄",
+    "name": "lipstick",
+    "category": "people"
+  },
+  {
+    "unicode": "💛",
+    "name": "yellow_heart",
+    "category": "people"
+  },
+  {
+    "unicode": "💙",
+    "name": "blue_heart",
+    "category": "people"
+  },
+  {
+    "unicode": "💜",
+    "name": "purple_heart",
+    "category": "people"
+  },
+  {
+    "unicode": "💚",
+    "name": "green_heart",
+    "category": "people"
+  },
+  {
+    "unicode": "❤️",
+    "name": "heart",
+    "category": "people"
+  },
+  {
+    "unicode": "💔",
+    "name": "broken_heart",
+    "category": "people"
+  },
+  {
+    "unicode": "💗",
+    "name": "heartpulse",
+    "category": "people"
+  },
+  {
+    "unicode": "💓",
+    "name": "heartbeat",
+    "category": "people"
+  },
+  {
+    "unicode": "💕",
+    "name": "two_hearts",
+    "category": "people"
+  },
+  {
+    "unicode": "💖",
+    "name": "sparkling_heart",
+    "category": "people"
+  },
+  {
+    "unicode": "💞",
+    "name": "revolving_hearts",
+    "category": "people"
+  },
+  {
+    "unicode": "💘",
+    "name": "cupid",
+    "category": "people"
+  },
+  {
+    "unicode": "💌",
+    "name": "love_letter",
+    "category": "people"
+  },
+  {
+    "unicode": "💋",
+    "name": "kiss",
+    "category": "people"
+  },
+  {
+    "unicode": "💍",
+    "name": "ring",
+    "category": "people"
+  },
+  {
+    "unicode": "💎",
+    "name": "gem",
+    "category": "people"
+  },
+  {
+    "unicode": "👤",
+    "name": "bust_in_silhouette",
+    "category": "people"
+  },
+  {
+    "unicode": "👥",
+    "name": "busts_in_silhouette",
+    "category": "people"
+  },
+  {
+    "unicode": "💬",
+    "name": "speech_balloon",
+    "category": "people"
+  },
+  {
+    "unicode": "👣",
+    "name": "footprints",
+    "category": "people"
+  },
+  {
+    "unicode": "💭",
+    "name": "thought_balloon",
+    "category": "people"
+  },
+  {
+    "unicode": "🐶",
+    "name": "dog",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐺",
+    "name": "wolf",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐱",
+    "name": "cat",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐭",
+    "name": "mouse",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐹",
+    "name": "hamster",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐰",
+    "name": "rabbit",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐸",
+    "name": "frog",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐯",
+    "name": "tiger",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐨",
+    "name": "koala",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐻",
+    "name": "bear",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐷",
+    "name": "pig",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐽",
+    "name": "pig_nose",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐮",
+    "name": "cow",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐗",
+    "name": "boar",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐵",
+    "name": "monkey_face",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐒",
+    "name": "monkey",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐴",
+    "name": "horse",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐑",
+    "name": "sheep",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐘",
+    "name": "elephant",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐼",
+    "name": "panda_face",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐧",
+    "name": "penguin",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐦",
+    "name": "bird",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐤",
+    "name": "baby_chick",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐥",
+    "name": "hatched_chick",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐣",
+    "name": "hatching_chick",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐔",
+    "name": "chicken",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐍",
+    "name": "snake",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐢",
+    "name": "turtle",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐛",
+    "name": "bug",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐝",
+    "name": "honeybee",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐜",
+    "name": "ant",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐞",
+    "name": "beetle",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐌",
+    "name": "snail",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐙",
+    "name": "octopus",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐚",
+    "name": "shell",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐠",
+    "name": "tropical_fish",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐟",
+    "name": "fish",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐬",
+    "name": "flipper",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐳",
+    "name": "whale",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐋",
+    "name": "whale2",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐄",
+    "name": "cow2",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐏",
+    "name": "ram",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐀",
+    "name": "rat",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐃",
+    "name": "water_buffalo",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐅",
+    "name": "tiger2",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐇",
+    "name": "rabbit2",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐉",
+    "name": "dragon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐎",
+    "name": "racehorse",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐐",
+    "name": "goat",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐓",
+    "name": "rooster",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐕",
+    "name": "dog2",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐖",
+    "name": "pig2",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐁",
+    "name": "mouse2",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐂",
+    "name": "ox",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐲",
+    "name": "dragon_face",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐡",
+    "name": "blowfish",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐊",
+    "name": "crocodile",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐫",
+    "name": "camel",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐪",
+    "name": "dromedary_camel",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐆",
+    "name": "leopard",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐈",
+    "name": "cat2",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐩",
+    "name": "poodle",
+    "category": "nature"
+  },
+  {
+    "unicode": "🐾",
+    "name": "paw_prints",
+    "category": "nature"
+  },
+  {
+    "unicode": "💐",
+    "name": "bouquet",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌸",
+    "name": "cherry_blossom",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌷",
+    "name": "tulip",
+    "category": "nature"
+  },
+  {
+    "unicode": "🍀",
+    "name": "four_leaf_clover",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌹",
+    "name": "rose",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌻",
+    "name": "sunflower",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌺",
+    "name": "hibiscus",
+    "category": "nature"
+  },
+  {
+    "unicode": "🍁",
+    "name": "maple_leaf",
+    "category": "nature"
+  },
+  {
+    "unicode": "🍃",
+    "name": "leaves",
+    "category": "nature"
+  },
+  {
+    "unicode": "🍂",
+    "name": "fallen_leaf",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌿",
+    "name": "herb",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌾",
+    "name": "ear_of_rice",
+    "category": "nature"
+  },
+  {
+    "unicode": "🍄",
+    "name": "mushroom",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌵",
+    "name": "cactus",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌴",
+    "name": "palm_tree",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌲",
+    "name": "evergreen_tree",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌳",
+    "name": "deciduous_tree",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌰",
+    "name": "chestnut",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌱",
+    "name": "seedling",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌼",
+    "name": "blossom",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌐",
+    "name": "globe_with_meridians",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌞",
+    "name": "sun_with_face",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌝",
+    "name": "full_moon_with_face",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌚",
+    "name": "new_moon_with_face",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌑",
+    "name": "new_moon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌒",
+    "name": "waxing_crescent_moon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌓",
+    "name": "first_quarter_moon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌔",
+    "name": "waxing_gibbous_moon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌕",
+    "name": "full_moon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌖",
+    "name": "waning_gibbous_moon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌗",
+    "name": "last_quarter_moon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌘",
+    "name": "waning_crescent_moon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌜",
+    "name": "last_quarter_moon_with_face",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌛",
+    "name": "first_quarter_moon_with_face",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌙",
+    "name": "crescent_moon",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌍",
+    "name": "earth_africa",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌎",
+    "name": "earth_americas",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌏",
+    "name": "earth_asia",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌋",
+    "name": "volcano",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌌",
+    "name": "milky_way",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌠",
+    "name": "stars",
+    "category": "nature"
+  },
+  {
+    "unicode": "⭐️",
+    "name": "star",
+    "category": "nature"
+  },
+  {
+    "unicode": "☀️",
+    "name": "sunny",
+    "category": "nature"
+  },
+  {
+    "unicode": "⛅️",
+    "name": "partly_sunny",
+    "category": "nature"
+  },
+  {
+    "unicode": "☁️",
+    "name": "cloud",
+    "category": "nature"
+  },
+  {
+    "unicode": "⚡️",
+    "name": "zap",
+    "category": "nature"
+  },
+  {
+    "unicode": "☔️",
+    "name": "umbrella",
+    "category": "nature"
+  },
+  {
+    "unicode": "❄️",
+    "name": "snowflake",
+    "category": "nature"
+  },
+  {
+    "unicode": "⛄️",
+    "name": "snowman",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌀",
+    "name": "cyclone",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌁",
+    "name": "foggy",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌈",
+    "name": "rainbow",
+    "category": "nature"
+  },
+  {
+    "unicode": "🌊",
+    "name": "ocean",
+    "category": "nature"
+  },
+  {
+    "unicode": "🎍",
+    "name": "bamboo",
+    "category": "objects"
+  },
+  {
+    "unicode": "💝",
+    "name": "gift_heart",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎎",
+    "name": "dolls",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎒",
+    "name": "school_satchel",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎓",
+    "name": "mortar_board",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎏",
+    "name": "flags",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎆",
+    "name": "fireworks",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎇",
+    "name": "sparkler",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎐",
+    "name": "wind_chime",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎑",
+    "name": "rice_scene",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎃",
+    "name": "jack_o_lantern",
+    "category": "objects"
+  },
+  {
+    "unicode": "👻",
+    "name": "ghost",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎅",
+    "name": "santa",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎄",
+    "name": "christmas_tree",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎁",
+    "name": "gift",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎋",
+    "name": "tanabata_tree",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎉",
+    "name": "tada",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎊",
+    "name": "confetti_ball",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎈",
+    "name": "balloon",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎌",
+    "name": "crossed_flags",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔮",
+    "name": "crystal_ball",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎥",
+    "name": "movie_camera",
+    "category": "objects"
+  },
+  {
+    "unicode": "📷",
+    "name": "camera",
+    "category": "objects"
+  },
+  {
+    "unicode": "📹",
+    "name": "video_camera",
+    "category": "objects"
+  },
+  {
+    "unicode": "📼",
+    "name": "vhs",
+    "category": "objects"
+  },
+  {
+    "unicode": "💿",
+    "name": "cd",
+    "category": "objects"
+  },
+  {
+    "unicode": "📀",
+    "name": "dvd",
+    "category": "objects"
+  },
+  {
+    "unicode": "💽",
+    "name": "minidisc",
+    "category": "objects"
+  },
+  {
+    "unicode": "💾",
+    "name": "floppy_disk",
+    "category": "objects"
+  },
+  {
+    "unicode": "💻",
+    "name": "computer",
+    "category": "objects"
+  },
+  {
+    "unicode": "📱",
+    "name": "iphone",
+    "category": "objects"
+  },
+  {
+    "unicode": "☎️",
+    "name": "telephone",
+    "category": "objects"
+  },
+  {
+    "unicode": "📞",
+    "name": "telephone_receiver",
+    "category": "objects"
+  },
+  {
+    "unicode": "📟",
+    "name": "pager",
+    "category": "objects"
+  },
+  {
+    "unicode": "📠",
+    "name": "fax",
+    "category": "objects"
+  },
+  {
+    "unicode": "📡",
+    "name": "satellite",
+    "category": "objects"
+  },
+  {
+    "unicode": "📺",
+    "name": "tv",
+    "category": "objects"
+  },
+  {
+    "unicode": "📻",
+    "name": "radio",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔊",
+    "name": "loud_sound",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔉",
+    "name": "sound",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔈",
+    "name": "speaker",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔇",
+    "name": "mute",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔔",
+    "name": "bell",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔕",
+    "name": "no_bell",
+    "category": "objects"
+  },
+  {
+    "unicode": "📢",
+    "name": "loudspeaker",
+    "category": "objects"
+  },
+  {
+    "unicode": "📣",
+    "name": "mega",
+    "category": "objects"
+  },
+  {
+    "unicode": "⏳",
+    "name": "hourglass_flowing_sand",
+    "category": "objects"
+  },
+  {
+    "unicode": "⌛️",
+    "name": "hourglass",
+    "category": "objects"
+  },
+  {
+    "unicode": "⏰",
+    "name": "alarm_clock",
+    "category": "objects"
+  },
+  {
+    "unicode": "⌚️",
+    "name": "watch",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔓",
+    "name": "unlock",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔒",
+    "name": "lock",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔏",
+    "name": "lock_with_ink_pen",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔐",
+    "name": "closed_lock_with_key",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔑",
+    "name": "key",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔎",
+    "name": "mag_right",
+    "category": "objects"
+  },
+  {
+    "unicode": "💡",
+    "name": "bulb",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔦",
+    "name": "flashlight",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔆",
+    "name": "high_brightness",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔅",
+    "name": "low_brightness",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔌",
+    "name": "electric_plug",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔋",
+    "name": "battery",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔍",
+    "name": "mag",
+    "category": "objects"
+  },
+  {
+    "unicode": "🛁",
+    "name": "bathtub",
+    "category": "objects"
+  },
+  {
+    "unicode": "🛀",
+    "name": "bath",
+    "category": "objects"
+  },
+  {
+    "unicode": "🚿",
+    "name": "shower",
+    "category": "objects"
+  },
+  {
+    "unicode": "🚽",
+    "name": "toilet",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔧",
+    "name": "wrench",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔩",
+    "name": "nut_and_bolt",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔨",
+    "name": "hammer",
+    "category": "objects"
+  },
+  {
+    "unicode": "🚪",
+    "name": "door",
+    "category": "objects"
+  },
+  {
+    "unicode": "🚬",
+    "name": "smoking",
+    "category": "objects"
+  },
+  {
+    "unicode": "💣",
+    "name": "bomb",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔫",
+    "name": "gun",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔪",
+    "name": "knife",
+    "category": "objects"
+  },
+  {
+    "unicode": "💊",
+    "name": "pill",
+    "category": "objects"
+  },
+  {
+    "unicode": "💉",
+    "name": "syringe",
+    "category": "objects"
+  },
+  {
+    "unicode": "💰",
+    "name": "moneybag",
+    "category": "objects"
+  },
+  {
+    "unicode": "💴",
+    "name": "yen",
+    "category": "objects"
+  },
+  {
+    "unicode": "💵",
+    "name": "dollar",
+    "category": "objects"
+  },
+  {
+    "unicode": "💷",
+    "name": "pound",
+    "category": "objects"
+  },
+  {
+    "unicode": "💶",
+    "name": "euro",
+    "category": "objects"
+  },
+  {
+    "unicode": "💳",
+    "name": "credit_card",
+    "category": "objects"
+  },
+  {
+    "unicode": "💸",
+    "name": "money_with_wings",
+    "category": "objects"
+  },
+  {
+    "unicode": "📲",
+    "name": "calling",
+    "category": "objects"
+  },
+  {
+    "unicode": "📧",
+    "name": "e-mail",
+    "category": "objects"
+  },
+  {
+    "unicode": "📥",
+    "name": "inbox_tray",
+    "category": "objects"
+  },
+  {
+    "unicode": "📤",
+    "name": "outbox_tray",
+    "category": "objects"
+  },
+  {
+    "unicode": "✉️",
+    "name": "envelope",
+    "category": "objects"
+  },
+  {
+    "unicode": "📩",
+    "name": "envelope_with_arrow",
+    "category": "objects"
+  },
+  {
+    "unicode": "📨",
+    "name": "incoming_envelope",
+    "category": "objects"
+  },
+  {
+    "unicode": "📯",
+    "name": "postal_horn",
+    "category": "objects"
+  },
+  {
+    "unicode": "📫",
+    "name": "mailbox",
+    "category": "objects"
+  },
+  {
+    "unicode": "📪",
+    "name": "mailbox_closed",
+    "category": "objects"
+  },
+  {
+    "unicode": "📬",
+    "name": "mailbox_with_mail",
+    "category": "objects"
+  },
+  {
+    "unicode": "📭",
+    "name": "mailbox_with_no_mail",
+    "category": "objects"
+  },
+  {
+    "unicode": "📮",
+    "name": "postbox",
+    "category": "objects"
+  },
+  {
+    "unicode": "📦",
+    "name": "package",
+    "category": "objects"
+  },
+  {
+    "unicode": "📝",
+    "name": "pencil",
+    "category": "objects"
+  },
+  {
+    "unicode": "📄",
+    "name": "page_facing_up",
+    "category": "objects"
+  },
+  {
+    "unicode": "📃",
+    "name": "page_with_curl",
+    "category": "objects"
+  },
+  {
+    "unicode": "📑",
+    "name": "bookmark_tabs",
+    "category": "objects"
+  },
+  {
+    "unicode": "📊",
+    "name": "bar_chart",
+    "category": "objects"
+  },
+  {
+    "unicode": "📈",
+    "name": "chart_with_upwards_trend",
+    "category": "objects"
+  },
+  {
+    "unicode": "📉",
+    "name": "chart_with_downwards_trend",
+    "category": "objects"
+  },
+  {
+    "unicode": "📜",
+    "name": "scroll",
+    "category": "objects"
+  },
+  {
+    "unicode": "📋",
+    "name": "clipboard",
+    "category": "objects"
+  },
+  {
+    "unicode": "📅",
+    "name": "date",
+    "category": "objects"
+  },
+  {
+    "unicode": "📆",
+    "name": "calendar",
+    "category": "objects"
+  },
+  {
+    "unicode": "📇",
+    "name": "card_index",
+    "category": "objects"
+  },
+  {
+    "unicode": "📁",
+    "name": "file_folder",
+    "category": "objects"
+  },
+  {
+    "unicode": "📂",
+    "name": "open_file_folder",
+    "category": "objects"
+  },
+  {
+    "unicode": "✂️",
+    "name": "scissors",
+    "category": "objects"
+  },
+  {
+    "unicode": "📌",
+    "name": "pushpin",
+    "category": "objects"
+  },
+  {
+    "unicode": "📎",
+    "name": "paperclip",
+    "category": "objects"
+  },
+  {
+    "unicode": "✒️",
+    "name": "black_nib",
+    "category": "objects"
+  },
+  {
+    "unicode": "✏️",
+    "name": "pencil2",
+    "category": "objects"
+  },
+  {
+    "unicode": "📏",
+    "name": "straight_ruler",
+    "category": "objects"
+  },
+  {
+    "unicode": "📐",
+    "name": "triangular_ruler",
+    "category": "objects"
+  },
+  {
+    "unicode": "📕",
+    "name": "closed_book",
+    "category": "objects"
+  },
+  {
+    "unicode": "📗",
+    "name": "green_book",
+    "category": "objects"
+  },
+  {
+    "unicode": "📘",
+    "name": "blue_book",
+    "category": "objects"
+  },
+  {
+    "unicode": "📙",
+    "name": "orange_book",
+    "category": "objects"
+  },
+  {
+    "unicode": "📓",
+    "name": "notebook",
+    "category": "objects"
+  },
+  {
+    "unicode": "📔",
+    "name": "notebook_with_decorative_cover",
+    "category": "objects"
+  },
+  {
+    "unicode": "📒",
+    "name": "ledger",
+    "category": "objects"
+  },
+  {
+    "unicode": "📚",
+    "name": "books",
+    "category": "objects"
+  },
+  {
+    "unicode": "📖",
+    "name": "open_book",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔖",
+    "name": "bookmark",
+    "category": "objects"
+  },
+  {
+    "unicode": "📛",
+    "name": "name_badge",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔬",
+    "name": "microscope",
+    "category": "objects"
+  },
+  {
+    "unicode": "🔭",
+    "name": "telescope",
+    "category": "objects"
+  },
+  {
+    "unicode": "📰",
+    "name": "newspaper",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎨",
+    "name": "art",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎬",
+    "name": "clapper",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎤",
+    "name": "microphone",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎧",
+    "name": "headphones",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎼",
+    "name": "musical_score",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎵",
+    "name": "musical_note",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎶",
+    "name": "notes",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎹",
+    "name": "musical_keyboard",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎻",
+    "name": "violin",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎺",
+    "name": "trumpet",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎷",
+    "name": "saxophone",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎸",
+    "name": "guitar",
+    "category": "objects"
+  },
+  {
+    "unicode": "👾",
+    "name": "space_invader",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎮",
+    "name": "video_game",
+    "category": "objects"
+  },
+  {
+    "unicode": "🃏",
+    "name": "black_joker",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎴",
+    "name": "flower_playing_cards",
+    "category": "objects"
+  },
+  {
+    "unicode": "🀄️",
+    "name": "mahjong",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎲",
+    "name": "game_die",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎯",
+    "name": "dart",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏈",
+    "name": "football",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏀",
+    "name": "basketball",
+    "category": "objects"
+  },
+  {
+    "unicode": "⚽️",
+    "name": "soccer",
+    "category": "objects"
+  },
+  {
+    "unicode": "⚾️",
+    "name": "baseball",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎾",
+    "name": "tennis",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎱",
+    "name": "8ball",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏉",
+    "name": "rugby_football",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎳",
+    "name": "bowling",
+    "category": "objects"
+  },
+  {
+    "unicode": "⛳️",
+    "name": "golf",
+    "category": "objects"
+  },
+  {
+    "unicode": "🚵",
+    "name": "mountain_bicyclist",
+    "category": "objects"
+  },
+  {
+    "unicode": "🚴",
+    "name": "bicyclist",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏁",
+    "name": "checkered_flag",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏇",
+    "name": "horse_racing",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏆",
+    "name": "trophy",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎿",
+    "name": "ski",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏂",
+    "name": "snowboarder",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏊",
+    "name": "swimmer",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏄",
+    "name": "surfer",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎣",
+    "name": "fishing_pole_and_fish",
+    "category": "objects"
+  },
+  {
+    "unicode": "☕️",
+    "name": "coffee",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍵",
+    "name": "tea",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍶",
+    "name": "sake",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍼",
+    "name": "baby_bottle",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍺",
+    "name": "beer",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍻",
+    "name": "beers",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍸",
+    "name": "cocktail",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍹",
+    "name": "tropical_drink",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍷",
+    "name": "wine_glass",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍴",
+    "name": "fork_and_knife",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍕",
+    "name": "pizza",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍔",
+    "name": "hamburger",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍟",
+    "name": "fries",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍗",
+    "name": "poultry_leg",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍖",
+    "name": "meat_on_bone",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍝",
+    "name": "spaghetti",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍛",
+    "name": "curry",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍤",
+    "name": "fried_shrimp",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍱",
+    "name": "bento",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍣",
+    "name": "sushi",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍥",
+    "name": "fish_cake",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍙",
+    "name": "rice_ball",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍘",
+    "name": "rice_cracker",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍚",
+    "name": "rice",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍜",
+    "name": "ramen",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍲",
+    "name": "stew",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍢",
+    "name": "oden",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍡",
+    "name": "dango",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍳",
+    "name": "egg",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍞",
+    "name": "bread",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍩",
+    "name": "doughnut",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍮",
+    "name": "custard",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍦",
+    "name": "icecream",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍨",
+    "name": "ice_cream",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍧",
+    "name": "shaved_ice",
+    "category": "objects"
+  },
+  {
+    "unicode": "🎂",
+    "name": "birthday",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍰",
+    "name": "cake",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍪",
+    "name": "cookie",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍫",
+    "name": "chocolate_bar",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍬",
+    "name": "candy",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍭",
+    "name": "lollipop",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍯",
+    "name": "honey_pot",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍎",
+    "name": "apple",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍏",
+    "name": "green_apple",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍊",
+    "name": "tangerine",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍋",
+    "name": "lemon",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍒",
+    "name": "cherries",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍇",
+    "name": "grapes",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍉",
+    "name": "watermelon",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍓",
+    "name": "strawberry",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍑",
+    "name": "peach",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍈",
+    "name": "melon",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍌",
+    "name": "banana",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍐",
+    "name": "pear",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍍",
+    "name": "pineapple",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍠",
+    "name": "sweet_potato",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍆",
+    "name": "eggplant",
+    "category": "objects"
+  },
+  {
+    "unicode": "🍅",
+    "name": "tomato",
+    "category": "objects"
+  },
+  {
+    "unicode": "🌽",
+    "name": "corn",
+    "category": "objects"
+  },
+  {
+    "unicode": "🏠",
+    "name": "house",
+    "category": "places"
+  },
+  {
+    "unicode": "🏡",
+    "name": "house_with_garden",
+    "category": "places"
+  },
+  {
+    "unicode": "🏫",
+    "name": "school",
+    "category": "places"
+  },
+  {
+    "unicode": "🏢",
+    "name": "office",
+    "category": "places"
+  },
+  {
+    "unicode": "🏣",
+    "name": "post_office",
+    "category": "places"
+  },
+  {
+    "unicode": "🏥",
+    "name": "hospital",
+    "category": "places"
+  },
+  {
+    "unicode": "🏦",
+    "name": "bank",
+    "category": "places"
+  },
+  {
+    "unicode": "🏪",
+    "name": "convenience_store",
+    "category": "places"
+  },
+  {
+    "unicode": "🏩",
+    "name": "love_hotel",
+    "category": "places"
+  },
+  {
+    "unicode": "🏨",
+    "name": "hotel",
+    "category": "places"
+  },
+  {
+    "unicode": "💒",
+    "name": "wedding",
+    "category": "places"
+  },
+  {
+    "unicode": "⛪️",
+    "name": "church",
+    "category": "places"
+  },
+  {
+    "unicode": "🏬",
+    "name": "department_store",
+    "category": "places"
+  },
+  {
+    "unicode": "🏤",
+    "name": "european_post_office",
+    "category": "places"
+  },
+  {
+    "unicode": "🌇",
+    "name": "city_sunrise",
+    "category": "places"
+  },
+  {
+    "unicode": "🌆",
+    "name": "city_sunset",
+    "category": "places"
+  },
+  {
+    "unicode": "🏯",
+    "name": "japanese_castle",
+    "category": "places"
+  },
+  {
+    "unicode": "🏰",
+    "name": "european_castle",
+    "category": "places"
+  },
+  {
+    "unicode": "⛺️",
+    "name": "tent",
+    "category": "places"
+  },
+  {
+    "unicode": "🏭",
+    "name": "factory",
+    "category": "places"
+  },
+  {
+    "unicode": "🗼",
+    "name": "tokyo_tower",
+    "category": "places"
+  },
+  {
+    "unicode": "🗾",
+    "name": "japan",
+    "category": "places"
+  },
+  {
+    "unicode": "🗻",
+    "name": "mount_fuji",
+    "category": "places"
+  },
+  {
+    "unicode": "🌄",
+    "name": "sunrise_over_mountains",
+    "category": "places"
+  },
+  {
+    "unicode": "🌅",
+    "name": "sunrise",
+    "category": "places"
+  },
+  {
+    "unicode": "🌃",
+    "name": "night_with_stars",
+    "category": "places"
+  },
+  {
+    "unicode": "🗽",
+    "name": "statue_of_liberty",
+    "category": "places"
+  },
+  {
+    "unicode": "🌉",
+    "name": "bridge_at_night",
+    "category": "places"
+  },
+  {
+    "unicode": "🎠",
+    "name": "carousel_horse",
+    "category": "places"
+  },
+  {
+    "unicode": "🎡",
+    "name": "ferris_wheel",
+    "category": "places"
+  },
+  {
+    "unicode": "⛲️",
+    "name": "fountain",
+    "category": "places"
+  },
+  {
+    "unicode": "🎢",
+    "name": "roller_coaster",
+    "category": "places"
+  },
+  {
+    "unicode": "🚢",
+    "name": "ship",
+    "category": "places"
+  },
+  {
+    "unicode": "⛵️",
+    "name": "sailboat",
+    "category": "places"
+  },
+  {
+    "unicode": "🚤",
+    "name": "speedboat",
+    "category": "places"
+  },
+  {
+    "unicode": "🚣",
+    "name": "rowboat",
+    "category": "places"
+  },
+  {
+    "unicode": "⚓️",
+    "name": "anchor",
+    "category": "places"
+  },
+  {
+    "unicode": "🚀",
+    "name": "rocket",
+    "category": "places"
+  },
+  {
+    "unicode": "✈️",
+    "name": "airplane",
+    "category": "places"
+  },
+  {
+    "unicode": "💺",
+    "name": "seat",
+    "category": "places"
+  },
+  {
+    "unicode": "🚁",
+    "name": "helicopter",
+    "category": "places"
+  },
+  {
+    "unicode": "🚂",
+    "name": "steam_locomotive",
+    "category": "places"
+  },
+  {
+    "unicode": "🚊",
+    "name": "tram",
+    "category": "places"
+  },
+  {
+    "unicode": "🚉",
+    "name": "station",
+    "category": "places"
+  },
+  {
+    "unicode": "🚞",
+    "name": "mountain_railway",
+    "category": "places"
+  },
+  {
+    "unicode": "🚆",
+    "name": "train2",
+    "category": "places"
+  },
+  {
+    "unicode": "🚄",
+    "name": "bullettrain_side",
+    "category": "places"
+  },
+  {
+    "unicode": "🚅",
+    "name": "bullettrain_front",
+    "category": "places"
+  },
+  {
+    "unicode": "🚈",
+    "name": "light_rail",
+    "category": "places"
+  },
+  {
+    "unicode": "🚇",
+    "name": "metro",
+    "category": "places"
+  },
+  {
+    "unicode": "🚝",
+    "name": "monorail",
+    "category": "places"
+  },
+  {
+    "unicode": "🚋",
+    "name": "train",
+    "category": "places"
+  },
+  {
+    "unicode": "🚃",
+    "name": "railway_car",
+    "category": "places"
+  },
+  {
+    "unicode": "🚎",
+    "name": "trolleybus",
+    "category": "places"
+  },
+  {
+    "unicode": "🚌",
+    "name": "bus",
+    "category": "places"
+  },
+  {
+    "unicode": "🚍",
+    "name": "oncoming_bus",
+    "category": "places"
+  },
+  {
+    "unicode": "🚙",
+    "name": "blue_car",
+    "category": "places"
+  },
+  {
+    "unicode": "🚘",
+    "name": "oncoming_automobile",
+    "category": "places"
+  },
+  {
+    "unicode": "🚗",
+    "name": "red_car",
+    "category": "places"
+  },
+  {
+    "unicode": "🚕",
+    "name": "taxi",
+    "category": "places"
+  },
+  {
+    "unicode": "🚖",
+    "name": "oncoming_taxi",
+    "category": "places"
+  },
+  {
+    "unicode": "🚛",
+    "name": "articulated_lorry",
+    "category": "places"
+  },
+  {
+    "unicode": "🚚",
+    "name": "truck",
+    "category": "places"
+  },
+  {
+    "unicode": "🚨",
+    "name": "rotating_light",
+    "category": "places"
+  },
+  {
+    "unicode": "🚓",
+    "name": "police_car",
+    "category": "places"
+  },
+  {
+    "unicode": "🚔",
+    "name": "oncoming_police_car",
+    "category": "places"
+  },
+  {
+    "unicode": "🚒",
+    "name": "fire_engine",
+    "category": "places"
+  },
+  {
+    "unicode": "🚑",
+    "name": "ambulance",
+    "category": "places"
+  },
+  {
+    "unicode": "🚐",
+    "name": "minibus",
+    "category": "places"
+  },
+  {
+    "unicode": "🚲",
+    "name": "bike",
+    "category": "places"
+  },
+  {
+    "unicode": "🚡",
+    "name": "aerial_tramway",
+    "category": "places"
+  },
+  {
+    "unicode": "🚟",
+    "name": "suspension_railway",
+    "category": "places"
+  },
+  {
+    "unicode": "🚠",
+    "name": "mountain_cableway",
+    "category": "places"
+  },
+  {
+    "unicode": "🚜",
+    "name": "tractor",
+    "category": "places"
+  },
+  {
+    "unicode": "💈",
+    "name": "barber",
+    "category": "places"
+  },
+  {
+    "unicode": "🚏",
+    "name": "busstop",
+    "category": "places"
+  },
+  {
+    "unicode": "🎫",
+    "name": "ticket",
+    "category": "places"
+  },
+  {
+    "unicode": "🚦",
+    "name": "vertical_traffic_light",
+    "category": "places"
+  },
+  {
+    "unicode": "🚥",
+    "name": "traffic_light",
+    "category": "places"
+  },
+  {
+    "unicode": "⚠️",
+    "name": "warning",
+    "category": "places"
+  },
+  {
+    "unicode": "🚧",
+    "name": "construction",
+    "category": "places"
+  },
+  {
+    "unicode": "🔰",
+    "name": "beginner",
+    "category": "places"
+  },
+  {
+    "unicode": "⛽️",
+    "name": "fuelpump",
+    "category": "places"
+  },
+  {
+    "unicode": "🏮",
+    "name": "lantern",
+    "category": "places"
+  },
+  {
+    "unicode": "🎰",
+    "name": "slot_machine",
+    "category": "places"
+  },
+  {
+    "unicode": "♨️",
+    "name": "hotsprings",
+    "category": "places"
+  },
+  {
+    "unicode": "🗿",
+    "name": "moyai",
+    "category": "places"
+  },
+  {
+    "unicode": "🎪",
+    "name": "circus_tent",
+    "category": "places"
+  },
+  {
+    "unicode": "🎭",
+    "name": "performing_arts",
+    "category": "places"
+  },
+  {
+    "unicode": "📍",
+    "name": "round_pushpin",
+    "category": "places"
+  },
+  {
+    "unicode": "🚩",
+    "name": "triangular_flag_on_post",
+    "category": "places"
+  },
+  {
+    "unicode": "🇯🇵",
+    "name": "jp",
+    "category": "places"
+  },
+  {
+    "unicode": "🇰🇷",
+    "name": "kr",
+    "category": "places"
+  },
+  {
+    "unicode": "🇩🇪",
+    "name": "de",
+    "category": "places"
+  },
+  {
+    "unicode": "🇨🇳",
+    "name": "cn",
+    "category": "places"
+  },
+  {
+    "unicode": "🇺🇸",
+    "name": "us",
+    "category": "places"
+  },
+  {
+    "unicode": "🇫🇷",
+    "name": "fr",
+    "category": "places"
+  },
+  {
+    "unicode": "🇪🇸",
+    "name": "es",
+    "category": "places"
+  },
+  {
+    "unicode": "🇮🇹",
+    "name": "it",
+    "category": "places"
+  },
+  {
+    "unicode": "🇷🇺",
+    "name": "ru",
+    "category": "places"
+  },
+  {
+    "unicode": "🇬🇧",
+    "name": "uk",
+    "category": "places"
+  },
+  {
+    "unicode": "1️⃣",
+    "name": "one",
+    "category": "symbols"
+  },
+  {
+    "unicode": "2️⃣",
+    "name": "two",
+    "category": "symbols"
+  },
+  {
+    "unicode": "3️⃣",
+    "name": "three",
+    "category": "symbols"
+  },
+  {
+    "unicode": "4️⃣",
+    "name": "four",
+    "category": "symbols"
+  },
+  {
+    "unicode": "5️⃣",
+    "name": "five",
+    "category": "symbols"
+  },
+  {
+    "unicode": "6️⃣",
+    "name": "six",
+    "category": "symbols"
+  },
+  {
+    "unicode": "7️⃣",
+    "name": "seven",
+    "category": "symbols"
+  },
+  {
+    "unicode": "8️⃣",
+    "name": "eight",
+    "category": "symbols"
+  },
+  {
+    "unicode": "9️⃣",
+    "name": "nine",
+    "category": "symbols"
+  },
+  {
+    "unicode": "0️⃣",
+    "name": "zero",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔟",
+    "name": "keycap_ten",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔢",
+    "name": "1234",
+    "category": "symbols"
+  },
+  {
+    "unicode": "#️⃣",
+    "name": "hash",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔣",
+    "name": "symbols",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⬆️",
+    "name": "arrow_up",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⬇️",
+    "name": "arrow_down",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⬅️",
+    "name": "arrow_left",
+    "category": "symbols"
+  },
+  {
+    "unicode": "➡️",
+    "name": "arrow_right",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔠",
+    "name": "capital_abcd",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔡",
+    "name": "abcd",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔤",
+    "name": "abc",
+    "category": "symbols"
+  },
+  {
+    "unicode": "↗️",
+    "name": "arrow_upper_right",
+    "category": "symbols"
+  },
+  {
+    "unicode": "↖️",
+    "name": "arrow_upper_left",
+    "category": "symbols"
+  },
+  {
+    "unicode": "↘️",
+    "name": "arrow_lower_right",
+    "category": "symbols"
+  },
+  {
+    "unicode": "↙️",
+    "name": "arrow_lower_left",
+    "category": "symbols"
+  },
+  {
+    "unicode": "↔️",
+    "name": "left_right_arrow",
+    "category": "symbols"
+  },
+  {
+    "unicode": "↕️",
+    "name": "arrow_up_down",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔄",
+    "name": "arrows_counterclockwise",
+    "category": "symbols"
+  },
+  {
+    "unicode": "◀️",
+    "name": "arrow_backward",
+    "category": "symbols"
+  },
+  {
+    "unicode": "▶️",
+    "name": "arrow_forward",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔼",
+    "name": "arrow_up_small",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔽",
+    "name": "arrow_down_small",
+    "category": "symbols"
+  },
+  {
+    "unicode": "↩️",
+    "name": "leftwards_arrow_with_hook",
+    "category": "symbols"
+  },
+  {
+    "unicode": "↪️",
+    "name": "arrow_right_hook",
+    "category": "symbols"
+  },
+  {
+    "unicode": "ℹ️",
+    "name": "information_source",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⏪",
+    "name": "rewind",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⏩",
+    "name": "fast_forward",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⏫",
+    "name": "arrow_double_up",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⏬",
+    "name": "arrow_double_down",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⤵️",
+    "name": "arrow_heading_down",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⤴️",
+    "name": "arrow_heading_up",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆗",
+    "name": "ok",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔀",
+    "name": "twisted_rightwards_arrows",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔁",
+    "name": "repeat",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔂",
+    "name": "repeat_one",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆕",
+    "name": "new",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆙",
+    "name": "up",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆒",
+    "name": "cool",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆓",
+    "name": "free",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆖",
+    "name": "ng",
+    "category": "symbols"
+  },
+  {
+    "unicode": "📶",
+    "name": "signal_strength",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🎦",
+    "name": "cinema",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈁",
+    "name": "koko",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈯️",
+    "name": "u6307",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈳",
+    "name": "u7a7a",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈵",
+    "name": "u6e80",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈴",
+    "name": "u5408",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈲",
+    "name": "u7981",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🉐",
+    "name": "ideograph_advantage",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈹",
+    "name": "u5272",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈺",
+    "name": "u55b6",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈶",
+    "name": "u6709",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈚️",
+    "name": "u7121",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚻",
+    "name": "restroom",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚹",
+    "name": "mens",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚺",
+    "name": "womens",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚼",
+    "name": "baby_symbol",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚾",
+    "name": "wc",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚰",
+    "name": "potable_water",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚮",
+    "name": "put_litter_in_its_place",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🅿️",
+    "name": "parking",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♿️",
+    "name": "wheelchair",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚭",
+    "name": "no_smoking",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈷",
+    "name": "u6708",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈸",
+    "name": "u7533",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🈂",
+    "name": "sa",
+    "category": "symbols"
+  },
+  {
+    "unicode": "Ⓜ️",
+    "name": "m",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🛂",
+    "name": "passport_control",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🛄",
+    "name": "baggage_claim",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🛅",
+    "name": "left_luggage",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🛃",
+    "name": "customs",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🉑",
+    "name": "accept",
+    "category": "symbols"
+  },
+  {
+    "unicode": "㊙️",
+    "name": "secret",
+    "category": "symbols"
+  },
+  {
+    "unicode": "㊗️",
+    "name": "congratulations",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆑",
+    "name": "cl",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆘",
+    "name": "sos",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆔",
+    "name": "id",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚫",
+    "name": "no_entry_sign",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔞",
+    "name": "underage",
+    "category": "symbols"
+  },
+  {
+    "unicode": "📵",
+    "name": "no_mobile_phones",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚯",
+    "name": "do_not_litter",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚱",
+    "name": "non-potable_water",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚳",
+    "name": "no_bicycles",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚷",
+    "name": "no_pedestrians",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🚸",
+    "name": "children_crossing",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⛔️",
+    "name": "no_entry",
+    "category": "symbols"
+  },
+  {
+    "unicode": "✳️",
+    "name": "eight_spoked_asterisk",
+    "category": "symbols"
+  },
+  {
+    "unicode": "❇️",
+    "name": "sparkle",
+    "category": "symbols"
+  },
+  {
+    "unicode": "❎",
+    "name": "negative_squared_cross_mark",
+    "category": "symbols"
+  },
+  {
+    "unicode": "✅",
+    "name": "white_check_mark",
+    "category": "symbols"
+  },
+  {
+    "unicode": "✴️",
+    "name": "eight_pointed_black_star",
+    "category": "symbols"
+  },
+  {
+    "unicode": "💟",
+    "name": "heart_decoration",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆚",
+    "name": "vs",
+    "category": "symbols"
+  },
+  {
+    "unicode": "📳",
+    "name": "vibration_mode",
+    "category": "symbols"
+  },
+  {
+    "unicode": "📴",
+    "name": "mobile_phone_off",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🅰",
+    "name": "a",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🅱",
+    "name": "b",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🆎",
+    "name": "ab",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🅾",
+    "name": "o2",
+    "category": "symbols"
+  },
+  {
+    "unicode": "💠",
+    "name": "diamond_shape_with_a_dot_inside",
+    "category": "symbols"
+  },
+  {
+    "unicode": "➿",
+    "name": "loop",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♻️",
+    "name": "recycle",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♈️",
+    "name": "aries",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♉️",
+    "name": "taurus",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♊️",
+    "name": "gemini",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♋️",
+    "name": "cancer",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♌️",
+    "name": "leo",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♍️",
+    "name": "virgo",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♎️",
+    "name": "libra",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♏️",
+    "name": "scorpius",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♐️",
+    "name": "sagittarius",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♑️",
+    "name": "capricorn",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♒️",
+    "name": "aquarius",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♓️",
+    "name": "pisces",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⛎",
+    "name": "ophiuchus",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔯",
+    "name": "six_pointed_star",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🏧",
+    "name": "atm",
+    "category": "symbols"
+  },
+  {
+    "unicode": "💹",
+    "name": "chart",
+    "category": "symbols"
+  },
+  {
+    "unicode": "💲",
+    "name": "heavy_dollar_sign",
+    "category": "symbols"
+  },
+  {
+    "unicode": "💱",
+    "name": "currency_exchange",
+    "category": "symbols"
+  },
+  {
+    "unicode": "©",
+    "name": "copyright",
+    "category": "symbols"
+  },
+  {
+    "unicode": "®",
+    "name": "registered",
+    "category": "symbols"
+  },
+  {
+    "unicode": "™",
+    "name": "tm",
+    "category": "symbols"
+  },
+  {
+    "unicode": "❌",
+    "name": "x",
+    "category": "symbols"
+  },
+  {
+    "unicode": "‼️",
+    "name": "bangbang",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⁉️",
+    "name": "interrobang",
+    "category": "symbols"
+  },
+  {
+    "unicode": "❗️",
+    "name": "heavy_exclamation_mark",
+    "category": "symbols"
+  },
+  {
+    "unicode": "❓",
+    "name": "question",
+    "category": "symbols"
+  },
+  {
+    "unicode": "❕",
+    "name": "grey_exclamation",
+    "category": "symbols"
+  },
+  {
+    "unicode": "❔",
+    "name": "grey_question",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⭕️",
+    "name": "o",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔝",
+    "name": "top",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔚",
+    "name": "end",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔙",
+    "name": "back",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔛",
+    "name": "on",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔜",
+    "name": "soon",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔃",
+    "name": "arrows_clockwise",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕛",
+    "name": "clock12",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕧",
+    "name": "clock1230",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕐",
+    "name": "clock1",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕜",
+    "name": "clock130",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕑",
+    "name": "clock2",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕝",
+    "name": "clock230",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕒",
+    "name": "clock3",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕞",
+    "name": "clock330",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕓",
+    "name": "clock4",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕟",
+    "name": "clock430",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕔",
+    "name": "clock5",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕠",
+    "name": "clock530",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕕",
+    "name": "clock6",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕖",
+    "name": "clock7",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕗",
+    "name": "clock8",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕘",
+    "name": "clock9",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕙",
+    "name": "clock10",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕚",
+    "name": "clock11",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕡",
+    "name": "clock630",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕢",
+    "name": "clock730",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕣",
+    "name": "clock830",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕤",
+    "name": "clock930",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕥",
+    "name": "clock1030",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🕦",
+    "name": "clock1130",
+    "category": "symbols"
+  },
+  {
+    "unicode": "✖️",
+    "name": "heavy_multiplication_x",
+    "category": "symbols"
+  },
+  {
+    "unicode": "➕",
+    "name": "heavy_plus_sign",
+    "category": "symbols"
+  },
+  {
+    "unicode": "➖",
+    "name": "heavy_minus_sign",
+    "category": "symbols"
+  },
+  {
+    "unicode": "➗",
+    "name": "heavy_division_sign",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♠️",
+    "name": "spades",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♥️",
+    "name": "hearts",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♣️",
+    "name": "clubs",
+    "category": "symbols"
+  },
+  {
+    "unicode": "♦️",
+    "name": "diamonds",
+    "category": "symbols"
+  },
+  {
+    "unicode": "💮",
+    "name": "white_flower",
+    "category": "symbols"
+  },
+  {
+    "unicode": "💯",
+    "name": "100",
+    "category": "symbols"
+  },
+  {
+    "unicode": "✔️",
+    "name": "heavy_check_mark",
+    "category": "symbols"
+  },
+  {
+    "unicode": "☑️",
+    "name": "ballot_box_with_check",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔘",
+    "name": "radio_button",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔗",
+    "name": "link",
+    "category": "symbols"
+  },
+  {
+    "unicode": "➰",
+    "name": "curly_loop",
+    "category": "symbols"
+  },
+  {
+    "unicode": "〰",
+    "name": "wavy_dash",
+    "category": "symbols"
+  },
+  {
+    "unicode": "〽️",
+    "name": "part_alternation_mark",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔱",
+    "name": "trident",
+    "category": "symbols"
+  },
+  {
+    "unicode": "◼️",
+    "name": "black_medium_square",
+    "category": "symbols"
+  },
+  {
+    "unicode": "◻️",
+    "name": "white_medium_square",
+    "category": "symbols"
+  },
+  {
+    "unicode": "◾️",
+    "name": "black_medium_small_square",
+    "category": "symbols"
+  },
+  {
+    "unicode": "◽️",
+    "name": "white_medium_small_square",
+    "category": "symbols"
+  },
+  {
+    "unicode": "▪️",
+    "name": "black_small_square",
+    "category": "symbols"
+  },
+  {
+    "unicode": "▫️",
+    "name": "white_small_square",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔺",
+    "name": "small_red_triangle",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔲",
+    "name": "black_square_button",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔳",
+    "name": "white_square_button",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⚫️",
+    "name": "black_circle",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⚪️",
+    "name": "white_circle",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔴",
+    "name": "red_circle",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔵",
+    "name": "large_blue_circle",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔻",
+    "name": "small_red_triangle_down",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⬜️",
+    "name": "white_large_square",
+    "category": "symbols"
+  },
+  {
+    "unicode": "⬛️",
+    "name": "black_large_square",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔶",
+    "name": "large_orange_diamond",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔷",
+    "name": "large_blue_diamond",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔸",
+    "name": "small_orange_diamond",
+    "category": "symbols"
+  },
+  {
+    "unicode": "🔹",
+    "name": "small_blue_diamond",
+    "category": "symbols"
+  },
+  {
+    "name": "+1"
+  },
+  {
+    "name": "-1"
+  },
+  {
+    "name": "bee"
+  },
+  {
+    "name": "boat"
+  },
+  {
+    "name": "book"
+  },
+  {
+    "name": "boom"
+  },
+  {
+    "name": "bowtie"
+  },
+  {
+    "name": "car"
+  },
+  {
+    "name": "dolphin"
+  },
+  {
+    "name": "email"
+  },
+  {
+    "name": "exclamation"
+  },
+  {
+    "name": "facepunch"
+  },
+  {
+    "name": "feelsgood"
+  },
+  {
+    "name": "feet"
+  },
+  {
+    "name": "finnadie"
+  },
+  {
+    "name": "fu"
+  },
+  {
+    "name": "gb"
+  },
+  {
+    "name": "goberserk"
+  },
+  {
+    "name": "godmode"
+  },
+  {
+    "name": "hand"
+  },
+  {
+    "name": "hankey"
+  },
+  {
+    "name": "hocho"
+  },
+  {
+    "name": "hurtrealbad"
+  },
+  {
+    "name": "izakaya_lantern"
+  },
+  {
+    "name": "laughing"
+  },
+  {
+    "name": "mans_shoe"
+  },
+  {
+    "name": "memo"
+  },
+  {
+    "name": "metal"
+  },
+  {
+    "name": "moon"
+  },
+  {
+    "name": "neckbeard"
+  },
+  {
+    "name": "octocat"
+  },
+  {
+    "name": "phone"
+  },
+  {
+    "name": "poop"
+  },
+  {
+    "name": "rage1"
+  },
+  {
+    "name": "rage2"
+  },
+  {
+    "name": "rage3"
+  },
+  {
+    "name": "rage4"
+  },
+  {
+    "name": "runner"
+  },
+  {
+    "name": "shipit"
+  },
+  {
+    "name": "shirt"
+  },
+  {
+    "name": "squirrel"
+  },
+  {
+    "name": "suspect"
+  },
+  {
+    "name": "trollface"
+  }
+]
