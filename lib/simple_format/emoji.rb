@@ -25,7 +25,7 @@ module SimpleFormat
     end
     # 主机地址
     def asset_host
-      @asset_host || '//l.ruby-china.org'
+      @asset_host || '//emoji.qiniudn.com'
     end
     # 设置主机地址
     def asset_host=(host)
@@ -33,7 +33,7 @@ module SimpleFormat
     end
     # 资源路径 
     def asset_path
-      @asset_path || '/assets/emojis/'
+      @asset_path || '/'
     end
     # 设置路径
     def asset_path=(path)

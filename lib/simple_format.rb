@@ -24,7 +24,12 @@ module SimpleFormat
   end
 
   def emoji
-    @emoji ||= Emoji.new
+    @emoji || Emoji.new
+  end
+
+  # 设置主机地址
+  def emoji=(klass)
+    @emoji = klass
   end
 
   private
