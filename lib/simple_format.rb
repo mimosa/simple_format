@@ -7,15 +7,15 @@ require 'sanitize' unless defined?(::Sanitize)
 module SimpleFormat
   extend self
 
-  def h(string, size=64)
+  def h(string)
     return string unless string
-    string = emoji.replace_emoji_with_images(string, size)
+    string = emoji.replace_emoji_with_images(string)
     string = auto_link(string)
     string = clean(string)
   end
 
-  def replace_emoji_with_images(string, size=64)
-    emoji.replace_emoji_with_images(string, size)
+  def replace_emoji_with_images(string)
+    emoji.replace_emoji_with_images(string)
   end
 
   def clean(html, options = {})
@@ -24,7 +24,7 @@ module SimpleFormat
   end
 
   def emoji
-    @emoji || Emoji.new
+    @emoji ||= Emoji.new
   end
 
   # 设置主机地址

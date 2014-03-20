@@ -1,5 +1,7 @@
 # -*- encoding: utf-8 -*-
 require 'multi_json' unless defined?(::MultiJson)
+require 'active_support/core_ext/string' unless ::String.respond_to?(:present?)
+require 'active_support/core_ext/object/inclusion' unless ::String.respond_to?(:in?)
 
 module SimpleFormat
   class Emoji
@@ -23,9 +25,10 @@ module SimpleFormat
       @emoji_name_regex = /:([a-z0-9\+\-_]+):/
       @emoji_unicode_regex = /#{@emoji_by_unicode.keys.join('|')}/
     end
+
     # 主机地址
     def asset_host
-      @asset_host || '//emoji.qiniudn.com'
+      @asset_host || 'emoji.qiniudn.com'
     end
     # 设置主机地址
     def asset_host=(host)
@@ -39,43 +42,63 @@ module SimpleFormat
     def asset_path=(path)
       @asset_path = path
     end
+    # 图标尺寸
+    def asset_size
+      @asset_size || ''
+    end
+    # 设置图标尺寸
+    def asset_size=(size)
+      @asset_size = size
+    end
+    # 分隔符
+    def asset_delimiter
+      @asset_delimiter || '_'
+    end
+    def asset_delimiter=(delimiter)
+      @asset_delimiter = delimiter
+    end
     # 通过（名称、字符）替换表情 
-    def replace_emoji_with_images(string, size='64')
+    def replace_emoji_with_images(string)
       return string unless string
-
       html ||= string.dup
-      html = replace_name_with_images(html, size)
-      html = replace_unicode_with_images(html.to_str, size)
+      html = replace_name_with_images(html)
+      html = replace_unicode_with_images(html.to_str)
       return html
     end
     # 通过（名称）替换表情 
-    def replace_name_with_images(string, size='64')
+    def replace_name_with_images(string)
       unless string && string.match(names_regex)
         return string
       end
 
       string.to_str.gsub(names_regex) do |match|
         if names.include?($1)
-          %Q{<img class="emoji" src="#{ image_url_for_name($1) }" width="#{size}" height="#{size}" />}
+          %Q{<img class="emoji" src="//#{ image_url_for_name($1) }" />}
         else
           match
         end
       end
     end
     # 通过（字符）替换表情 
-    def replace_unicode_with_images(string, size='64')
+    def replace_unicode_with_images(string)
       unless string && string.match(unicodes_regex)
         return string
       end
 
       html ||= string.dup
       html.gsub!(unicodes_regex) do |unicode|
-        %Q{<img class="emoji" src="#{ image_url_for_unicode(unicode) }" width="#{size}" height="#{size}" />}
+        %Q{<img class="emoji" src="//#{ image_url_for_unicode(unicode) }" />}
       end
     end
     # 通过（名称）合成图片地址
     def image_url_for_name(name)
-      "#{asset_host}#{ File.join(asset_path, name) }.png"
+      image_url = "#{asset_host}#{ File.join(asset_path, name) }.png"
+      if image_url.present?
+        if asset_size.present? && asset_size.in?(sizes)
+          image_url = [image_url, asset_size].join(asset_delimiter)
+        end
+      end
+      return image_url
     end
     # 通过（字符）合成图片地址
     def image_url_for_unicode(unicode)
@@ -105,6 +128,13 @@ module SimpleFormat
     # 字符匹配表达式
     def unicodes_regex
       @emoji_unicode_regex
+    end
+    
+    private
+
+    # 尺寸
+    def sizes
+      %W(16x16 24x24 32x32 48x48 56x56)
     end
   end
 end
