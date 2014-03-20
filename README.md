@@ -5,7 +5,7 @@ simple_format
 * Auto Link url and email.
 * Clean HTML elements and attributes.
 
-[![Gem Version](https://badge.fury.io/rb/simple_format.png)](http://badge.fury.io/rb/simple_format)  [![Dependency Status](https://gemnasium.com/mimosa/simple_format.png?travis)](https://gemnasium.com/mimosa/rails-cache_control) [![Code Climate](https://codeclimate.com/github/mimosa/simple_format.png)](https://codeclimate.com/github/mimosa/simple_format)
+[![Gem Version](https://badge.fury.io/rb/simple_format.png)](http://badge.fury.io/rb/simple_format)  [![Dependency Status](https://gemnasium.com/mimosa/simple_format.png?travis)](https://gemnasium.com/mimosa/simple_format) [![Code Climate](https://codeclimate.com/github/mimosa/simple_format.png)](https://codeclimate.com/github/mimosa/simple_format)
 
 
 Installation
