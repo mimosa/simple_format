@@ -34,7 +34,7 @@ module SimpleFormat
 
     def nl2br(string) # 回车 转 <br />
       if string
-        string.gsub("\n\r","<br />").gsub("\r", "").gsub("\n", "<br />")
+        string.gsub("\r", "").gsub("\n", "<br />")
       end
     end
 
